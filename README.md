@@ -12,6 +12,9 @@ The Neural network will also beat the Accuracy rating of a Random Forest Classif
 Technologies
 -----------
 Python 3.9
+
 Numpy
+
 Librosa
+
 matplotlib
